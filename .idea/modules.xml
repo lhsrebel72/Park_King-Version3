@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ParkKing.iml" filepath="$PROJECT_DIR$/ParkKing.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Park_King.iml" filepath="$PROJECT_DIR$/Park_King.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Park_King-Version2.iml" filepath="$PROJECT_DIR$/Park_King-Version2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Software-Engineering-Group-master.iml" filepath="$PROJECT_DIR$/Software-Engineering-Group-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Park_King-Version3.iml" filepath="$PROJECT_DIR$/Park_King-Version3.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
